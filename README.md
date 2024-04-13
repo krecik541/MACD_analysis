@@ -1,7 +1,7 @@
 # Analiza wskaźnika MACD dla akcji CD Projekt Red
 ## Opis:
 Program ten analizuje wskaźnik MACD (Moving Average Convergence Divergence) dla akcji CD Projekt Red na giełdzie w Warszawie (symbol: CDR.WA). Wykorzystuje dane historyczne pobrane za pomocą biblioteki yfinance oraz oblicza średnie kroczące wykładnicze (EMA) oraz punkty przecięcia MACD z linią sygnału, sugerujące momenty kupna i sprzedaży akcji.
-
+ 
 ## Dane wejściowe:
 Symbol giełdowy: "CDR.WA"  
 Okres analizy: maksymalny dostępny
